@@ -10,13 +10,13 @@ El objetivo es analizar la relación entre la incidencia de Infecciones Respirat
 
 
 ## Estructura del repositorio
-├── README.md                       # Descripción del proyecto y nombres del grupo
-├── src/                          # Carpeta con el código de análisis
-│   └── PRACTICA2_tipologia.ipynb
-├── dataset_integrado_gold.xls 
-├── dataset_integrado_gold_limpio.xls
-├── evolucion_de_los_casos_de_gripe_en_españa_por_semanas.xls # tasa gripe
-├── evolucion_de_los_casos_de_infecciones_respiratorias_agudas_(iras)_en_españa (1).xls # tasa IRAS
-├── polen_acumulado_2025_todas_estaciones.xls # Polen
+- **README.md** → Descripción del proyecto y nombres del grupo.  
+- **src/** → Carpeta con el código de análisis (notebook).  
+- **dataset_integrado_gold.xls** → Dataset integrado inicial.  
+- **dataset_integrado_gold_limpio.xls** → Dataset integrado limpio y procesado.  
+- **evolucion_de_los_casos_de_gripe_en_españa_por_semanas.xls** → Datos de tasa de gripe.  
+- **evolucion_de_los_casos_de_infecciones_respiratorias_agudas_(iras)_en_españa (1).xls** → Datos de tasa de IRAS.  
+- **polen_acumulado_2025_todas_estaciones.xls** → Datos de polen acumulado.  
+
 
 
